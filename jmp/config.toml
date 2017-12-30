@@ -1,0 +1,27 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "José Machado Pais"
+
+DefaultContentLanguage = "pt"
+
+[params]
+  Description = ""
+  # Optional
+  #disqusShortname = ""
+  #gaID = "Google Analytics Tracking ID"
+  highlight_theme = "tomorrow-night"
+  notoc = true
+
+[Languages]
+[Languages.pt]
+  title = "José Machado Pais"
+  weight = 1
+[Languages.pt.params]
+  paginit = "Página Inicial"
+  notoc = true
+
+[Languages.en]
+  title = "José Machado Pais"
+  weight = 2
+[Languages.en.params]
+  paginit = "Home"
