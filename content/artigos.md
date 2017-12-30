@@ -1,6 +1,6 @@
 ---
 title: "Artigos"
-draft: true
+draft: false
 ---
 
 Para uma listagem completa de publicações visite o meu [perfil no Google Scholar](https://scholar.google.pt/citations?user=Sl2u4dcAAAAJ&hl=en)
